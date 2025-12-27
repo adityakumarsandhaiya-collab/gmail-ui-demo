@@ -56,9 +56,3 @@ Any misuse of this project is **not the responsibility of the author**.
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/gmail-ui-demo.git
-cd gmail-ui-demo
-open index.html
